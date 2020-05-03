@@ -24,7 +24,7 @@ This feels great to be tested on multiple computers. You can, of course, run the
 
 ## Built With
 -   [tkinter](https://docs.python.org/3/library/tkinter.html)  - The standard Python interface to the Tk GUI toolkit
--  [Socket.io](https://docs.python.org/3/library/socket.html)  - Low-level networking interface
+-  [Socket](https://docs.python.org/3/library/socket.html)  - Low-level networking interface
 
 
 
