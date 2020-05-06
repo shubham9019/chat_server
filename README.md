@@ -30,6 +30,6 @@ This feels great to be tested on multiple computers. You can, of course, run the
 
 ## License
 
-This project is licensed under the MIT License - see the  [LICENSE.md](https://github.com/shubham9019/chat_server/blob/master/LICENSE)  file for details
+This project is licensed under the MIT License - see the  [LICENSE.md](https://github.com/shubham9019/chat_server/blob/master/LICENSE) file for details
 
 **Note - Please PIP install all the dependencies from Built with section before use**
