@@ -1,4 +1,4 @@
-## Python Chat app
+## Python Chat app 
 
 This a basic chat application implemented using Python 3 and the most basic libraries possible to make this app. This app has various functionality including adding username after connecting to a server. Server can be accessed by multiple computers on the same network. Chat experience is seamless even after multiple devices connected to the same server.
 
